@@ -1,0 +1,337 @@
+http://purl.obolibrary.org/obo/MI_0401	biochemical
+http://purl.obolibrary.org/obo/MI_0254	genetic interference
+http://purl.obolibrary.org/obo/MI_0428	imaging technique
+http://purl.obolibrary.org/obo/MI_0013	biophysical
+http://purl.obolibrary.org/obo/MI_0255	post transcriptional interference
+http://purl.obolibrary.org/obo/MI_1088	phenotype-based detection assay
+http://purl.obolibrary.org/obo/MI_0090	protein complementation assay
+http://purl.obolibrary.org/obo/MI_0400	affinity technology
+http://purl.obolibrary.org/obo/MI_0982	electrophoretic mobility-based method
+http://purl.obolibrary.org/obo/MI_0030	cross-linking study
+http://purl.obolibrary.org/obo/MI_1036	nucleotide exchange assay
+http://purl.obolibrary.org/obo/MI_0953	polymerization
+http://purl.obolibrary.org/obo/MI_0091	chromatography technology
+http://purl.obolibrary.org/obo/MI_0417	footprinting
+http://purl.obolibrary.org/obo/MI_0027	cosedimentation
+http://purl.obolibrary.org/obo/MI_2197	probe interaction assay
+http://purl.obolibrary.org/obo/MI_2289	virotrap
+http://purl.obolibrary.org/obo/MI_1232	aggregation assay
+http://purl.obolibrary.org/obo/MI_0415	enzymatic study
+http://purl.obolibrary.org/obo/MI_0439	random spore analysis
+http://purl.obolibrary.org/obo/MI_2224	chemical rna modification plus base pairing prediction
+http://purl.obolibrary.org/obo/MI_0441	synthetic genetic analysis
+http://purl.obolibrary.org/obo/MI_0827	x-ray tomography
+http://purl.obolibrary.org/obo/MI_0040	electron microscopy
+http://purl.obolibrary.org/obo/MI_0416	fluorescence microscopy
+http://purl.obolibrary.org/obo/MI_2213	super-resolution microscopy
+http://purl.obolibrary.org/obo/MI_0663	confocal microscopy
+http://purl.obolibrary.org/obo/MI_0426	light microscopy
+http://purl.obolibrary.org/obo/MI_0872	atomic force microscopy
+http://purl.obolibrary.org/obo/MI_1219	enzyme-mediated activation of radical sources
+http://purl.obolibrary.org/obo/MI_1235	thermal shift binding
+http://purl.obolibrary.org/obo/MI_0888	small angle neutron scattering
+http://purl.obolibrary.org/obo/MI_0099	scintillation proximity assay
+http://purl.obolibrary.org/obo/MI_0114	x-ray crystallography
+http://purl.obolibrary.org/obo/MI_0968	biosensor
+http://purl.obolibrary.org/obo/MI_1086	equilibrium dialysis
+http://purl.obolibrary.org/obo/MI_0894	electron diffraction
+http://purl.obolibrary.org/obo/MI_1311	differential scanning calorimetry
+http://purl.obolibrary.org/obo/MI_0016	circular dichroism
+http://purl.obolibrary.org/obo/MI_2318	force measurement
+http://purl.obolibrary.org/obo/MI_1247	microscale thermophoresis
+http://purl.obolibrary.org/obo/MI_0964	infrared spectroscopy
+http://purl.obolibrary.org/obo/MI_0943	detection by mass spectrometry
+http://purl.obolibrary.org/obo/MI_0966	ultraviolet-visible spectroscopy
+http://purl.obolibrary.org/obo/MI_0891	neutron fiber diffraction
+http://purl.obolibrary.org/obo/MI_0043	electron resonance
+http://purl.obolibrary.org/obo/MI_2169	luminiscence technology
+http://purl.obolibrary.org/obo/MI_0928	filter trap assay
+http://purl.obolibrary.org/obo/MI_0065	isothermal titration calorimetry
+http://purl.obolibrary.org/obo/MI_0071	molecular sieving
+http://purl.obolibrary.org/obo/MI_0893	neutron diffraction
+http://purl.obolibrary.org/obo/MI_0067	light scattering
+http://purl.obolibrary.org/obo/MI_0938	rheology measurement
+http://purl.obolibrary.org/obo/MI_0051	fluorescence technology
+http://purl.obolibrary.org/obo/MI_0077	nuclear magnetic resonance
+http://purl.obolibrary.org/obo/MI_1192	antisense oligonucleotides
+http://purl.obolibrary.org/obo/MI_0257	antisense rna
+http://purl.obolibrary.org/obo/MI_0256	rna interference
+http://purl.obolibrary.org/obo/MI_2285	miRNA interference luciferase reporter assay
+http://purl.obolibrary.org/obo/MI_1089	nuclear translocation assay
+http://purl.obolibrary.org/obo/MI_0010	beta galactosidase complementation
+http://purl.obolibrary.org/obo/MI_0370	tox-r dimerization assay
+http://purl.obolibrary.org/obo/MI_2323	kiss
+http://purl.obolibrary.org/obo/MI_0014	adenylate cyclase complementation
+http://purl.obolibrary.org/obo/MI_0232	transcriptional complementation assay
+http://purl.obolibrary.org/obo/MI_0111	dihydrofolate reductase reconstruction
+http://purl.obolibrary.org/obo/MI_0809	bimolecular fluorescence complementation
+http://purl.obolibrary.org/obo/MI_1203	split luciferase complementation
+http://purl.obolibrary.org/obo/MI_0895	protein kinase A complementation
+http://purl.obolibrary.org/obo/MI_0231	mammalian protein protein interaction trap
+http://purl.obolibrary.org/obo/MI_0097	reverse ras recruitment system
+http://purl.obolibrary.org/obo/MI_0011	beta lactamase complementation
+http://purl.obolibrary.org/obo/MI_0813	proximity ligation assay
+http://purl.obolibrary.org/obo/MI_0004	affinity chromatography technology
+http://purl.obolibrary.org/obo/MI_1031	protein folding/unfolding
+http://purl.obolibrary.org/obo/MI_0440	saturation binding
+http://purl.obolibrary.org/obo/MI_0657	systematic evolution of ligands by exponential enrichment
+http://purl.obolibrary.org/obo/MI_0034	display technology
+http://purl.obolibrary.org/obo/MI_0405	competition binding
+http://purl.obolibrary.org/obo/MI_0892	solid phase assay
+http://purl.obolibrary.org/obo/MI_1087	monoclonal antibody blockade
+http://purl.obolibrary.org/obo/MI_0008	array technology
+http://purl.obolibrary.org/obo/MI_0807	comigration in gel electrophoresis
+http://purl.obolibrary.org/obo/MI_0983	gemma
+http://purl.obolibrary.org/obo/MI_0430	nucleic acid uv cross-linking assay
+http://purl.obolibrary.org/obo/MI_0031	protein cross-linking with a bifunctional reagent
+http://purl.obolibrary.org/obo/MI_1218	chromosome conformation capture assay
+http://purl.obolibrary.org/obo/MI_0949	gdp/gtp exchange assay
+http://purl.obolibrary.org/obo/MI_0004	affinity chromatography technology
+http://purl.obolibrary.org/obo/MI_0227	reverse phase chromatography
+http://purl.obolibrary.org/obo/MI_0928	filter trap assay
+http://purl.obolibrary.org/obo/MI_0226	ion exchange chromatography
+http://purl.obolibrary.org/obo/MI_0071	molecular sieving
+http://purl.obolibrary.org/obo/MI_2329	hydrophobic interaction chromatography
+http://purl.obolibrary.org/obo/MI_0605	enzymatic footprinting
+http://purl.obolibrary.org/obo/MI_1191	ultraviolet (uv) footprinting
+http://purl.obolibrary.org/obo/MI_0602	chemical footprinting
+http://purl.obolibrary.org/obo/MI_0028	cosedimentation in solution
+http://purl.obolibrary.org/obo/MI_0029	cosedimentation through density gradient
+http://purl.obolibrary.org/obo/MI_1211	liposome binding assay
+http://purl.obolibrary.org/obo/MI_1022	field flow fractionation
+http://purl.obolibrary.org/obo/MI_1087	monoclonal antibody blockade
+http://purl.obolibrary.org/obo/MI_2198	labelling assay
+http://purl.obolibrary.org/obo/MI_1142	aminoacylation assay
+http://purl.obolibrary.org/obo/MI_1145	phospholipase assay
+http://purl.obolibrary.org/obo/MI_1147	ampylation assay
+http://purl.obolibrary.org/obo/MI_0696	polymerase assay
+http://purl.obolibrary.org/obo/MI_1009	desumoylase assay
+http://purl.obolibrary.org/obo/MI_0984	deamination assay
+http://purl.obolibrary.org/obo/MI_0841	phosphotransferase assay
+http://purl.obolibrary.org/obo/MI_1325	sulfurtransferase assay
+http://purl.obolibrary.org/obo/MI_1010	neddylase assay
+http://purl.obolibrary.org/obo/MI_1005	adp ribosylase assay
+http://purl.obolibrary.org/obo/MI_0972	phosphopantetheinylase assay
+http://purl.obolibrary.org/obo/MI_2216	deampylation assay
+http://purl.obolibrary.org/obo/MI_1011	deneddylase assay
+http://purl.obolibrary.org/obo/MI_0406	deacetylase assay
+http://purl.obolibrary.org/obo/MI_0999	formylase assay
+http://purl.obolibrary.org/obo/MI_1000	hydroxylase assay
+http://purl.obolibrary.org/obo/MI_1034	nuclease assay
+http://purl.obolibrary.org/obo/MI_0889	acetylase assay
+http://purl.obolibrary.org/obo/MI_0979	oxidoreductase assay
+http://purl.obolibrary.org/obo/MI_1026	diphtamidase assay
+http://purl.obolibrary.org/obo/MI_0990	cleavage assay
+http://purl.obolibrary.org/obo/MI_0434	phosphatase assay
+http://purl.obolibrary.org/obo/MI_1007	glycosylase assay
+http://purl.obolibrary.org/obo/MI_0515	methyltransferase assay
+http://purl.obolibrary.org/obo/MI_1138	decarboxylation assay
+http://purl.obolibrary.org/obo/MI_0989	amidase assay
+http://purl.obolibrary.org/obo/MI_1249	isomerase assay
+http://purl.obolibrary.org/obo/MI_0998	deubiquitinase assay
+http://purl.obolibrary.org/obo/MI_1008	sumoylase assay
+http://purl.obolibrary.org/obo/MI_1137	carboxylation assay
+http://purl.obolibrary.org/obo/MI_2281	deamidation assay
+http://purl.obolibrary.org/obo/MI_1001	lipidase assay
+http://purl.obolibrary.org/obo/MI_0997	ubiquitinase assay
+http://purl.obolibrary.org/obo/MI_0870	demethylase assay
+http://purl.obolibrary.org/obo/MI_0996	deformylase assay
+http://purl.obolibrary.org/obo/MI_1309	de-ADP-ribosylation assay
+http://purl.obolibrary.org/obo/MI_1229	uridylation assay
+http://purl.obolibrary.org/obo/MI_1006	deglycosylase assay
+http://purl.obolibrary.org/obo/MI_0020	transmission electron microscopy
+http://purl.obolibrary.org/obo/MI_1024	scanning electron microscopy
+http://purl.obolibrary.org/obo/MI_0425	kinase scintillation proximity assay
+http://purl.obolibrary.org/obo/MI_0824	x-ray powder diffraction
+http://purl.obolibrary.org/obo/MI_0825	x-ray fiber diffraction
+http://purl.obolibrary.org/obo/MI_1038	silicon nanowire field-effect transistor
+http://purl.obolibrary.org/obo/MI_2196	quartz crystal microbalance
+http://purl.obolibrary.org/obo/MI_1342	qcmd
+http://purl.obolibrary.org/obo/MI_0969	bio-layer interferometry
+http://purl.obolibrary.org/obo/MI_0107	surface plasmon resonance
+http://purl.obolibrary.org/obo/MI_2319	surface force measurement
+http://purl.obolibrary.org/obo/MI_0859	force spectroscopy
+http://purl.obolibrary.org/obo/MI_0965	2d-infrared spectrometry
+http://purl.obolibrary.org/obo/MI_0944	mass spectrometry study of hydrogen/deuterium exchange
+http://purl.obolibrary.org/obo/MI_0069	mass spectrometry studies of complexes
+http://purl.obolibrary.org/obo/MI_0041	electron nuclear double resonance
+http://purl.obolibrary.org/obo/MI_0042	electron paramagnetic resonance
+http://purl.obolibrary.org/obo/MI_2170	bimolecular luminiscence complementation
+http://purl.obolibrary.org/obo/MI_2171	complemented donor-acceptor resonance energy transfer
+http://purl.obolibrary.org/obo/MI_0038	dynamic light scattering
+http://purl.obolibrary.org/obo/MI_0826	x ray scattering
+http://purl.obolibrary.org/obo/MI_0104	static light scattering
+http://purl.obolibrary.org/obo/MI_1030	excimer fluorescence
+http://purl.obolibrary.org/obo/MI_0017	classical fluorescence spectroscopy
+http://purl.obolibrary.org/obo/MI_0052	fluorescence correlation spectroscopy
+http://purl.obolibrary.org/obo/MI_0976	total internal reflection fluorescence spectroscopy
+http://purl.obolibrary.org/obo/MI_0510	homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_2348	sequential bret-fret
+http://purl.obolibrary.org/obo/MI_2171	complemented donor-acceptor resonance energy transfer
+http://purl.obolibrary.org/obo/MI_0012	bioluminescence resonance energy transfer
+http://purl.obolibrary.org/obo/MI_1016	fluorescence recovery after photobleaching
+http://purl.obolibrary.org/obo/MI_0055	fluorescent resonance energy transfer
+http://purl.obolibrary.org/obo/MI_0809	bimolecular fluorescence complementation
+http://purl.obolibrary.org/obo/MI_0053	fluorescence polarization spectroscopy
+http://purl.obolibrary.org/obo/MI_0905	amplified luminescent proximity homogeneous assay
+http://purl.obolibrary.org/obo/MI_0054	fluorescence-activated cell sorting
+http://purl.obolibrary.org/obo/MI_1104	solid state nmr
+http://purl.obolibrary.org/obo/MI_1103	solution state nmr
+http://purl.obolibrary.org/obo/MI_0726	reverse two hybrid
+http://purl.obolibrary.org/obo/MI_1320	membrane yeast two hybrid
+http://purl.obolibrary.org/obo/MI_0432	one hybrid
+http://purl.obolibrary.org/obo/MI_0369	lex-a dimerization assay
+http://purl.obolibrary.org/obo/MI_0588	three hybrid
+http://purl.obolibrary.org/obo/MI_0655	lambda repressor two hybrid
+http://purl.obolibrary.org/obo/MI_0018	two hybrid
+http://purl.obolibrary.org/obo/MI_1204	split firefly luciferase complementation
+http://purl.obolibrary.org/obo/MI_1037	Split renilla luciferase complementation
+http://purl.obolibrary.org/obo/MI_0729	luminescence based mammalian interactome mapping
+http://purl.obolibrary.org/obo/MI_0019	coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_0096	pull down
+http://purl.obolibrary.org/obo/MI_0676	tandem affinity purification
+http://purl.obolibrary.org/obo/MI_2288	DAP-seq
+http://purl.obolibrary.org/obo/MI_0098	ribosome display
+http://purl.obolibrary.org/obo/MI_0115	yeast display
+http://purl.obolibrary.org/obo/MI_0084	phage display
+http://purl.obolibrary.org/obo/MI_0009	bacterial display
+http://purl.obolibrary.org/obo/MI_0073	mrna display
+http://purl.obolibrary.org/obo/MI_0947	bead aggregation assay
+http://purl.obolibrary.org/obo/MI_0047	far western blotting
+http://purl.obolibrary.org/obo/MI_2167	kinetic exclusion assay
+http://purl.obolibrary.org/obo/MI_0411	enzyme linked immunosorbent assay
+http://purl.obolibrary.org/obo/MI_2189	avexis
+http://purl.obolibrary.org/obo/MI_0049	filter binding
+http://purl.obolibrary.org/obo/MI_0089	protein array
+http://purl.obolibrary.org/obo/MI_0081	peptide array
+http://purl.obolibrary.org/obo/MI_0921	surface plasmon resonance array
+http://purl.obolibrary.org/obo/MI_0225	chromatin immunoprecipitation array
+http://purl.obolibrary.org/obo/MI_0404	comigration in non denaturing gel electrophoresis
+http://purl.obolibrary.org/obo/MI_0808	comigration in sds page
+http://purl.obolibrary.org/obo/MI_1312	aut-page
+http://purl.obolibrary.org/obo/MI_0413	electrophoretic mobility shift assay
+http://purl.obolibrary.org/obo/MI_2194	crac
+http://purl.obolibrary.org/obo/MI_2191	clip
+http://purl.obolibrary.org/obo/MI_0729	luminescence based mammalian interactome mapping
+http://purl.obolibrary.org/obo/MI_0019	coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_0096	pull down
+http://purl.obolibrary.org/obo/MI_0676	tandem affinity purification
+http://purl.obolibrary.org/obo/MI_2288	DAP-seq
+http://purl.obolibrary.org/obo/MI_1183	nuclease footprinting
+http://purl.obolibrary.org/obo/MI_0901	isotope label footprinting
+http://purl.obolibrary.org/obo/MI_1189	methylation interference assay
+http://purl.obolibrary.org/obo/MI_1352	uracil interference assay
+http://purl.obolibrary.org/obo/MI_0814	protease accessibility laddering
+http://purl.obolibrary.org/obo/MI_0604	potassium permanganate footprinting
+http://purl.obolibrary.org/obo/MI_1190	hydroxy radical footprinting
+http://purl.obolibrary.org/obo/MI_0603	dimethylsulphate footprinting
+http://purl.obolibrary.org/obo/MI_1313	proximity labelling technology
+http://purl.obolibrary.org/obo/MI_2199	specific site-labelling technology
+http://purl.obolibrary.org/obo/MI_0699	rna directed dna polymerase assay
+http://purl.obolibrary.org/obo/MI_0698	dna directed rna polymerase assay
+http://purl.obolibrary.org/obo/MI_0697	dna directed dna polymerase assay
+http://purl.obolibrary.org/obo/MI_0700	rna directed rna polymerase assay
+http://purl.obolibrary.org/obo/MI_0424	protein kinase assay
+http://purl.obolibrary.org/obo/MI_0508	deacetylase radiometric assay
+http://purl.obolibrary.org/obo/MI_0920	ribonuclease assay
+http://purl.obolibrary.org/obo/MI_1035	deoxyribonuclease assay
+http://purl.obolibrary.org/obo/MI_0887	histone acetylase assay
+http://purl.obolibrary.org/obo/MI_0991	lipoprotein cleavage assay
+http://purl.obolibrary.org/obo/MI_1354	lipase assay
+http://purl.obolibrary.org/obo/MI_0435	protease assay
+http://purl.obolibrary.org/obo/MI_0879	nucleoside triphosphatase assay
+http://purl.obolibrary.org/obo/MI_0514	in gel phosphatase assay
+http://purl.obolibrary.org/obo/MI_1019	protein phosphatase assay
+http://purl.obolibrary.org/obo/MI_0509	phosphatase homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_0516	methyltransferase radiometric assay
+http://purl.obolibrary.org/obo/MI_1252	methylmalonyl-CoA isomerase asf say
+http://purl.obolibrary.org/obo/MI_1236	proline isomerase assay
+http://purl.obolibrary.org/obo/MI_1003	geranylgeranylase assay
+http://purl.obolibrary.org/obo/MI_1002	myristoylase assay
+http://purl.obolibrary.org/obo/MI_1004	palmitoylase assay
+http://purl.obolibrary.org/obo/MI_0410	3D electron microscopy
+http://purl.obolibrary.org/obo/MI_0921	surface plasmon resonance array
+http://purl.obolibrary.org/obo/MI_2292	magnetic tweezers
+http://purl.obolibrary.org/obo/MI_2291	atomic force microscopy cantilevers
+http://purl.obolibrary.org/obo/MI_2290	optical tweezers
+http://purl.obolibrary.org/obo/MI_1246	ion mobility mass spectrometry of complexes
+http://purl.obolibrary.org/obo/MI_1238	mass spectrometry studies of subunit exchange
+http://purl.obolibrary.org/obo/MI_0511	protease homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_0420	kinase homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_0509	phosphatase homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_0009	bacterial display
+http://purl.obolibrary.org/obo/MI_0115	yeast display
+http://purl.obolibrary.org/obo/MI_1321	ire1 reconstruction
+http://purl.obolibrary.org/obo/MI_0112	ubiquitin reconstruction
+http://purl.obolibrary.org/obo/MI_0437	protein three hybrid
+http://purl.obolibrary.org/obo/MI_0438	rna three hybrid
+http://purl.obolibrary.org/obo/MI_0398	two hybrid pooling approach
+http://purl.obolibrary.org/obo/MI_0437	protein three hybrid
+http://purl.obolibrary.org/obo/MI_0728	gal4 vp16 complementation
+http://purl.obolibrary.org/obo/MI_0727	lexa b52 complementation
+http://purl.obolibrary.org/obo/MI_1356	validated two hybrid
+http://purl.obolibrary.org/obo/MI_0397	two hybrid array
+http://purl.obolibrary.org/obo/MI_0916	lexa vp16 complementation
+http://purl.obolibrary.org/obo/MI_0007	anti tag coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_0402	chromatin immunoprecipitation assay
+http://purl.obolibrary.org/obo/MI_0946	miniaturized immunoprecipitation
+http://purl.obolibrary.org/obo/MI_0858	immunodepleted coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_0006	anti bait coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_1017	rna immunoprecipitation
+http://purl.obolibrary.org/obo/MI_0963	interactome parallel affinity capture
+http://purl.obolibrary.org/obo/MI_0108	t7 phage display
+http://purl.obolibrary.org/obo/MI_0048	filamentous phage display
+http://purl.obolibrary.org/obo/MI_0066	lambda phage display
+http://purl.obolibrary.org/obo/MI_2283	southwestern blotting
+http://purl.obolibrary.org/obo/MI_0678	antibody array
+http://purl.obolibrary.org/obo/MI_0092	protein in situ array
+http://purl.obolibrary.org/obo/MI_0095	proteinchip(r) on a surface-enhanced laser desorption/ionization
+http://purl.obolibrary.org/obo/MI_0276	blue native page
+http://purl.obolibrary.org/obo/MI_0412	electrophoretic mobility supershift assay
+http://purl.obolibrary.org/obo/MI_2195	clash
+http://purl.obolibrary.org/obo/MI_2188	par-clip
+http://purl.obolibrary.org/obo/MI_2192	clip-seq
+http://purl.obolibrary.org/obo/MI_2193	iclip
+http://purl.obolibrary.org/obo/MI_0007	anti tag coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_0402	chromatin immunoprecipitation assay
+http://purl.obolibrary.org/obo/MI_0946	miniaturized immunoprecipitation
+http://purl.obolibrary.org/obo/MI_0858	immunodepleted coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_0006	anti bait coimmunoprecipitation
+http://purl.obolibrary.org/obo/MI_1017	rna immunoprecipitation
+http://purl.obolibrary.org/obo/MI_0963	interactome parallel affinity capture
+http://purl.obolibrary.org/obo/MI_0606	DNase I footprinting
+http://purl.obolibrary.org/obo/MI_2168	conditional site labelling
+http://purl.obolibrary.org/obo/MI_1314	proximity-dependent biotin identification
+http://purl.obolibrary.org/obo/MI_1184	dna adenine methyltransferase identification
+http://purl.obolibrary.org/obo/MI_0420	kinase homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_0423	in-gel kinase assay
+http://purl.obolibrary.org/obo/MI_0425	kinase scintillation proximity assay
+http://purl.obolibrary.org/obo/MI_0995	depalmitoylase assay
+http://purl.obolibrary.org/obo/MI_0992	defarnesylase assay
+http://purl.obolibrary.org/obo/MI_0994	demyristoylase assay
+http://purl.obolibrary.org/obo/MI_0993	degeranylase assay
+http://purl.obolibrary.org/obo/MI_0511	protease homogeneous time resolved fluorescence
+http://purl.obolibrary.org/obo/MI_0512	zymography
+http://purl.obolibrary.org/obo/MI_0513	collagen film assay
+http://purl.obolibrary.org/obo/MI_0419	gtpase assay
+http://purl.obolibrary.org/obo/MI_0880	atpase assay
+http://purl.obolibrary.org/obo/MI_2340	electron microscopy 3D helical reconstruction
+http://purl.obolibrary.org/obo/MI_2338	electron tomography
+http://purl.obolibrary.org/obo/MI_2339	electron microscopy 3D single particle reconstruction
+http://purl.obolibrary.org/obo/MI_1111	two hybrid bait or prey pooling approach
+http://purl.obolibrary.org/obo/MI_1113	two hybrid bait and prey pooling approach
+http://purl.obolibrary.org/obo/MI_1029	proteomics of isolated chromatin segments
+http://purl.obolibrary.org/obo/MI_1028	modified chromatin immunoprecipitation
+http://purl.obolibrary.org/obo/MI_0225	chromatin immunoprecipitation array
+http://purl.obolibrary.org/obo/MI_0899	p3 filamentous phage display
+http://purl.obolibrary.org/obo/MI_0900	p8 filamentous phage display
+http://purl.obolibrary.org/obo/MI_0695	sandwich immunoassay
+http://purl.obolibrary.org/obo/MI_0946	miniaturized immunoprecipitation
+http://purl.obolibrary.org/obo/MI_1029	proteomics of isolated chromatin segments
+http://purl.obolibrary.org/obo/MI_1028	modified chromatin immunoprecipitation
+http://purl.obolibrary.org/obo/MI_0225	chromatin immunoprecipitation array
+http://purl.obolibrary.org/obo/MI_1187	damip
+http://purl.obolibrary.org/obo/MI_1112	two hybrid prey pooling approach
+http://purl.obolibrary.org/obo/MI_2215	barcode fusion genetics two hybrid
+http://purl.obolibrary.org/obo/MI_2277	Cr-two hybrid
+http://purl.obolibrary.org/obo/MI_0399	two hybrid fragment pooling approach
