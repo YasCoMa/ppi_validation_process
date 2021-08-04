@@ -34,15 +34,6 @@ The figure below illustrates all the tasks of these pipelines.
 	- itertools
 	- lxml
 	- bs4 (beautiful soup)
-	- pygosemsim <br > 
-	Go to folder pygosemsim and type: <br >
-	````sudo python3.5 setup.py install ````<br > 
-	Replace python3.5 to the one used in anaconda environment or the default (if you are not using anaconda) <br ><br >
-	After installation you have to run these commands in python console: <br > 
-	````python
-	from pygosemsim import download 
-	download.obo("go")
-	````
 
 ## Usage Instructions
 ### Preparation:
@@ -63,7 +54,9 @@ The figure below illustrates all the tasks of these pipelines.
 	1. Go to the first filtering part folder: <br>
 	````cd pipe_location_assocRules/````
 
-	2. Run: <br>
+	2. Uncompress annotation_data.zip
+	
+	3. Run: <br>
 	````python3 find_pattern.py -fo running_example/ -if all_pairs.tsv````
 
 

@@ -648,6 +648,8 @@ class Running_config:
         f=open(folder+file_pairs,"r")
         for line in f:
             l=line.replace("\n","").split("\t")
+            l[0]=l[0].split("|")[0]
+            l[1]=l[1].split("|")[0]
             if(l[0] in hgnc.keys() and l[1] in hgnc.keys()):
                 c+=1
                 hits_pmc=lt.get_pmcHits_for_pair([hgnc[l[0]], hgnc[l[1]]])

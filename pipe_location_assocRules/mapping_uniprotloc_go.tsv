@@ -1,0 +1,392 @@
+SL-0476	GO:0031672	a band	a band|a disc|anisotropic disc|q disc|transverse disc
+SL-0002	GO:0020022	acidocalcisome	acidocalcisome|metachromatic granule|polyphosphate vacuole|volutin granule
+SL-0316	GO:0033985	acidocalcisome lumen	acidocalcisome lumen
+SL-0003	GO:0033102	acidocalcisome membrane	acidocalcisome membrane
+SL-0007	GO:0001669	acrosome	acrosomal vesicle|acrosomal granule|acrosome
+SL-0008	GO:0030479	actin patch	actin cortical patch|actin patch
+SL-0009	GO:0005912	adherens junction	adherens junction
+SL-0010	GO:0032578	aleurone grain	aleurone grain membrane
+SL-0317	GO:0034422	aleurone grain lumen	aleurone grain lumen
+SL-0011	GO:0032578	aleurone grain membrane	aleurone grain membrane
+SL-0012	GO:0009501	amyloplast	amyloplast
+SL-0013	GO:0033098	amyloplast inner membrane	amyloplast inner membrane
+SL-0014	GO:0033097	amyloplast membrane	amyloplast membrane
+SL-0491	GO:0044222	anammoxosome	anammoxosome
+SL-0016	GO:0032579	apical lamina	apical lamina of hyaline layer
+SL-0018	GO:0020011	apicoplast	apicoplast
+SL-0019	GO:0048046	apoplast	apoplast
+SL-0306	GO:0097589	archaeal flagellum	archaeal-type flagellum|archaeal flagellum|archaella|archaellum
+SL-0020	GO:0033099	attachment organelle	attachment organelle
+SL-0021	GO:0033111	attachment organelle membrane	attachment organelle membrane
+SL-0023	GO:0000421	autophagosome	autophagosome membrane|autophagic vacuole membrane
+SL-0318	GO:0034423	autophagosome lumen	autophagosome lumen|autophagic vacuole lumen
+SL-0022	GO:0000421	autophagosome membrane	autophagosome membrane|autophagic vacuole membrane
+SL-0279	GO:0001683	axon	obsolete axonemal dynein heavy chain|axonemal dynein heavy chain
+SL-0489	GO:0097691	bacterial extracellular vesicle	bacterial extracellular vesicle
+SL-0025	GO:0005604	basement membrane	basement membrane|basal lamina|basement lamina|lamina densa
+SL-0472	GO:0032059	bleb	bleb|plasma membrane bleb
+SL-0027	GO:0000131	bud	incipient cellular bud site
+SL-0028	GO:0033101	bud membrane	cellular bud membrane|cellular bud plasma membrane
+SL-0029	GO:0000142	bud neck	cellular bud neck contractile ring|neck ring
+SL-0030	GO:0005934	bud tip	cellular bud tip
+SL-0031	GO:0015030	cajal body	cajal body|coiled body|gemini of coiled bodies|gems
+SL-0032	GO:0030112	calyx	glycocalyx|cell capsule
+SL-0033	GO:0030112	capsule	glycocalyx|cell capsule
+SL-0034	GO:0031470	carboxysome	carboxysome
+SL-0035	GO:0002095	caveola	caveolar macromolecular signaling complex|caveolar macromolecular signalling complex
+SL-0138	GO:0005938	cell cortex	cell cortex|cell periphery|peripheral cytoplasm
+SL-0036	GO:0030313	cell envelope	cell envelope
+SL-0038	GO:0005911	cell junction	cell-cell junction|intercellular junction
+SL-0039	GO:0005886	cell membrane	plasma membrane|bacterial inner membrane|cell membrane|cellular membrane|cytoplasmic membrane|inner endospore membrane|juxtamembrane|plasma membrane lipid bilayer|plasmalemma
+SL-0040	GO:0009279	cell outer membrane	cell outer membrane|outer membrane of cell
+SL-0280	GO:0031253	cell projection	cell projection membrane|membrane extension|membrane projection
+SL-0455	GO:0000934	cell septum	porous cell septum|porous septum
+SL-0310	GO:0009930	cell surface	longitudinal side of cell surface
+SL-0456	GO:0031520	cell tip	plasma membrane of cell tip|'plasma membrane, cell tip'
+SL-0041	GO:0005618	cell wall	cell wall
+SL-0485	GO:0034451	centriolar satellite	centriolar satellite
+SL-0046	GO:0005814	centriole	centriole|daughter centriole|mother centriole
+SL-0047	GO:0000775	centromere	chromosome, centromeric region|centromere|centromere complex|chromosome, centric region|chromosome, pericentric region
+SL-0048	GO:0005813	centrosome	centrosome
+SL-0049	GO:0009507	chloroplast	chloroplast
+SL-0050	GO:0009941	chloroplast envelope	chloroplast envelope
+SL-0051	GO:0009706	chloroplast inner membrane	chloroplast inner membrane|chloroplast inner envelope
+SL-0052	GO:0031972	chloroplast intermembrane space	chloroplast intermembrane space|chloroplast envelope lumen
+SL-0053	GO:0031969	chloroplast membrane	chloroplast membrane
+SL-0139	GO:0042644	chloroplast nucleoid	chloroplast nucleoid
+SL-0054	GO:0009707	chloroplast outer membrane	chloroplast outer membrane|chloroplast outer envelope
+SL-0055	GO:0009533	chloroplast stroma	chloroplast stromal thylakoid
+SL-0056	GO:0009534	chloroplast thylakoid	chloroplast thylakoid
+SL-0057	GO:0009543	chloroplast thylakoid lumen	chloroplast thylakoid lumen
+SL-0058	GO:0009535	chloroplast thylakoid membrane	chloroplast thylakoid membrane
+SL-0059	GO:0033105	chlorosome	chlorosome envelope|chlorosome membrane
+SL-0060	GO:0033105	chlorosome envelope	chlorosome envelope|chlorosome membrane
+SL-0061	GO:0034466	chromaffin granule	chromaffin granule lumen
+SL-0349	GO:0034466	chromaffin granule lumen	chromaffin granule lumen
+SL-0062	GO:0042584	chromaffin granule membrane	chromaffin granule membrane
+SL-0063	GO:0009509	chromoplast	chromoplast
+SL-0064	GO:0046862	chromoplast membrane	chromoplast membrane
+SL-0065	GO:0009575	chromoplast stroma	chromoplast stroma
+SL-0468	GO:0000228	chromosome	nuclear chromosome|nuclear interphase chromosome
+SL-0066	GO:0005929	cilium	cilium|eukaryotic flagellum|flagellum|microtubule-based flagellum|primary cilium
+SL-0304	GO:0005930	cilium axoneme	axoneme|ciliary axoneme|cilium axoneme|flagellar axoneme|flagellum axoneme
+SL-0087	GO:0036064	cilium basal body	ciliary basal body|basal body|cilial basal body|cilium basal body|microtubule basal body
+SL-0305	GO:0060170	cilium membrane	ciliary membrane|cilial membrane|cilium membrane|flagellar membrane|flagellum membrane
+SL-0067	GO:0005801	cis-golgi network	cis-golgi network|cis face|cis golgi network|forming face|golgi cis face|golgi cis-face
+SL-0068	GO:0033106	cis-golgi network membrane	cis-golgi network membrane|cis golgi network membrane|golgi cis face membrane
+SL-0069	GO:0005905	clathrin-coated pit	clathrin-coated pit|coated pit
+SL-0070	GO:0030136	clathrin-coated vesicle	clathrin-coated vesicle
+SL-0071	GO:0030665	clathrin-coated vesicle membrane	clathrin-coated vesicle membrane|clathrin coated vesicle membrane
+SL-0467	GO:0032154	cleavage furrow	cleavage furrow
+SL-0072	GO:0005905	coated pit	clathrin-coated pit|coated pit
+SL-0073	GO:0000331	contractile vacuole	contractile vacuole
+SL-0074	GO:0031164	contractile vacuole membrane	contractile vacuolar membrane|contractile vacuole membrane
+SL-0075	GO:0030137	copi-coated vesicle	copi-coated vesicle|coatomer
+SL-0321	GO:0106172	copi-coated vesicle lumen	copi-coated vesicle lumen
+SL-0076	GO:0030663	copi-coated vesicle membrane	copi-coated vesicle membrane|copi coated vesicle membrane
+SL-0077	GO:0030134	copii-coated vesicle	copii-coated er to golgi transport vesicle|copii vesicle|copii-associated er to golgi transport vesicle|copii-associated vesicle|copii-coated vesicle|endoplasmic reticulum to golgi transport vesicle|endoplasmic reticulum-golgi transport vesicle|er to golgi constitutive secretory pathway transport vesicle|er to golgi transport vesicle|er-golgi transport vesicle
+SL-0322	GO:0106173	copii-coated vesicle lumen	copii-coated vesicle lumen
+SL-0079	GO:0001533	cornified envelope	cornified envelope
+SL-0080	GO:0033107	cvt vesicle	cvt vesicle|cytoplasm to vacuole targeting vesicle|cytoplasm-to-vacuole targeting vesicle
+SL-0081	GO:0033110	cvt vesicle membrane	cvt vesicle membrane|cytoplasm to vacuole targeting vesicle membrane|cytoplasm-to-vacuole targeting vesicle membrane
+SL-0082	GO:0009842	cyanelle	cyanelle|cyanoplast|muroplast
+SL-0479	GO:0033112	cyanelle envelope	cyanelle envelope
+SL-0480	GO:0036012	cyanelle inner membrane	cyanelle inner membrane|cyanelle inner envelope membrane
+SL-0481	GO:0036014	cyanelle intermembrane space	cyanelle intermembrane space|cyanelle envelope lumen|cyanelle periplasm
+SL-0083	GO:0033113	cyanelle membrane	cyanelle membrane
+SL-0482	GO:0036013	cyanelle outer membrane	cyanelle outer membrane
+SL-0350	GO:0034060	cyanelle stroma	cyanelle stroma
+SL-0277	GO:0009843	cyanelle thylakoid	cyanelle thylakoid
+SL-0084	GO:0033114	cyanelle thylakoid lumen	cyanelle thylakoid lumen
+SL-0085	GO:0033115	cyanelle thylakoid membrane	cyanelle thylakoid membrane
+SL-0086	GO:0000153	cytoplasm	cytoplasmic ubiquitin ligase complex
+SL-0495	GO:0036464	cytoplasmic ribonucleoprotein granule	cytoplasmic ribonucleoprotein granule|staufen granule
+SL-9910	GO:0009898	cytoplasmic side	cytoplasmic side of plasma membrane|internal leaflet of plasma membrane|internal side of plasma membrane|juxtamembrane
+SL-0088	GO:0030659	cytoplasmic vesicle	cytoplasmic vesicle membrane
+SL-0325	GO:0060205	cytoplasmic vesicle lumen	cytoplasmic vesicle lumen|cytoplasmic membrane-bounded vesicle lumen|cytoplasmic membrane-enclosed vesicle lumen
+SL-0089	GO:0030659	cytoplasmic vesicle membrane	cytoplasmic vesicle membrane
+SL-0090	GO:0005856	cytoskeleton	cytoskeleton
+SL-0091	GO:0000180	cytosol	obsolete cytosolic large ribosomal subunit|cytosolic large ribosomal subunit
+SL-0283	GO:0014069	dendrite	postsynaptic density|neuronal postsynaptic density|post synaptic density|post-synaptic density|postsynaptic density of dendrite
+SL-0284	GO:0032591	dendritic spine	dendritic spine membrane
+SL-0285	GO:0032591	dendritic spine membrane	dendritic spine membrane
+SL-0092	GO:0005915	desmosome	zonula adherens|adhesion belt|belt desmosome|fascia adhaerens|intermediate junction|zonula adhaerens
+SL-0094	GO:0005769	early endosome	early endosome
+SL-0337	GO:0031905	early endosome lumen	early endosome lumen
+SL-0093	GO:0031901	early endosome membrane	early endosome membrane
+SL-0147	GO:0012505	endomembrane system	endomembrane system
+SL-0095	GO:0005783	endoplasmic reticulum	endoplasmic reticulum|er
+SL-0096	GO:0005788	endoplasmic reticulum lumen	endoplasmic reticulum lumen|cisternal lumen|endoplasmic reticulum cisterna|er cisterna|er lumen
+SL-0097	GO:0005789	endoplasmic reticulum membrane	endoplasmic reticulum membrane|er membrane
+SL-0098	GO:0005793	endoplasmic reticulum-golgi intermediate compartment	endoplasmic reticulum-golgi intermediate compartment|egtc|endoplasmic reticulum-golgi transport container|er-golgi intermediate compartment|er-golgi transport container|ergic|pre-golgi intermediate compartment|vesicular-tubular cluster|vtc
+SL-0099	GO:0033116	endoplasmic reticulum-golgi intermediate compartment membrane	endoplasmic reticulum-golgi intermediate compartment membrane|er-golgi intermediate compartment membrane
+SL-0101	GO:0005768	endosome	endosome
+SL-0327	GO:0031904	endosome lumen	endosome lumen
+SL-0100	GO:0010008	endosome membrane	endosome membrane|endosomal membrane
+SL-0109	GO:0033117	esterosome	esterosome
+SL-0328	GO:0034467	esterosome lumen	esterosome lumen
+SL-0108	GO:0033118	esterosome membrane	esterosome membrane
+SL-0110	GO:0009513	etioplast	etioplast
+SL-0329	GO:0034426	etioplast membrane	etioplast membrane
+SL-0330	GO:0009578	etioplast stroma	etioplast stroma
+SL-0466	GO:0070062	extracellular exosome	extracellular exosome|exosome|extracellular vesicular exosome
+SL-0111	GO:0031012	extracellular matrix	extracellular matrix|matrisome|proteinaceous extracellular matrix
+SL-0112	GO:0005615	extracellular space	extracellular space|intercellular space
+SL-0499	GO:0097691	extracellular vesicle	bacterial extracellular vesicle
+SL-0286	GO:0030175	filopodium	filopodium
+SL-0287	GO:0031527	filopodium membrane	filopodium membrane
+SL-0470	GO:0032433	filopodium tip	filopodium tip
+SL-0113	GO:0009289	fimbrium	pilus|fimbria|fimbriae|fimbrium|pili
+SL-0116	GO:0020016	flagellar pocket	ciliary pocket|cilial pocket|cilium pocket|flagellar pocket
+SL-0117	GO:0005929	flagellum	cilium|eukaryotic flagellum|flagellum|microtubule-based flagellum|primary cilium
+SL-0114	GO:0005930	flagellum axoneme	axoneme|ciliary axoneme|cilium axoneme|flagellar axoneme|flagellum axoneme
+SL-0308	GO:0009425	flagellum basal body	bacterial-type flagellum basal body|flagellar basal body|flagellin-based flagellum basal body
+SL-0115	GO:0060170	flagellum membrane	ciliary membrane|cilial membrane|cilium membrane|flagellar membrane|flagellum membrane
+SL-0118	GO:0005925	focal adhesion	focal adhesion|adhesion plaque|focal contact|hemi-adherens junction
+SL-0119	GO:0005628	forespore	prospore membrane|ascospore-type prospore membrane|forespore membrane|fsm
+SL-0122	GO:0005628	forespore membrane	prospore membrane|ascospore-type prospore membrane|forespore membrane|fsm
+SL-0124	GO:0005921	gap junction	gap junction|communicating junction|electrical synapse|electrotonic synapse|gap junction macula|gap junction plaque|intercellular gap junction channel|macula communicans|zonula communicans
+SL-0125	GO:0031411	gas vesicle	gas vesicle|gas vacuole
+SL-0126	GO:0033172	gas vesicle membrane	gas vesicle shell|gas vesicle membrane|gas vesicle wall
+SL-0127	GO:0015030	gem	cajal body|coiled body|gemini of coiled bodies|gems
+SL-0129	GO:0020015	glycosome	glycosome
+SL-0128	GO:0046860	glycosome membrane	glycosome membrane
+SL-0131	GO:0009514	glyoxysome	glyoxysome
+SL-0130	GO:0046861	glyoxysome membrane	glyoxysomal membrane|glyoxysome membrane
+SL-0132	GO:0005794	golgi apparatus	golgi apparatus|golgi|golgi complex|golgi ribbon
+SL-0135	GO:0005795	golgi stack	golgi stack|dictyosome|golgi cisternae
+SL-0334	GO:0034469	golgi stack lumen	golgi stack lumen
+SL-0136	GO:0032580	golgi stack membrane	golgi cisterna membrane|golgi stack membrane
+SL-9902	GO:0042765	gpi-anchor	gpi-anchor transamidase complex|gpit complex
+SL-0288	GO:0030426	growth cone	growth cone
+SL-0289	GO:0032584	growth cone membrane	growth cone membrane
+SL-0477	GO:0031673	h zone	h zone|h band|h disc
+SL-0137	GO:0030056	hemidesmosome	hemidesmosome|epidermal attachment structure|fibrous organelle|hemi-adherens junction|trans-epithelial attachment
+SL-0431	GO:0018995	host	host cellular component|host organism
+SL-0428	GO:0044155	host caveola	host caveola
+SL-0427	GO:0018995	host cell	host cellular component|host organism
+SL-0421	GO:0039662	host cell envelope	host cell outer membrane|host cell envelope outer membrane|outer membrane of host cell
+SL-0374	GO:0044156	host cell junction	host cell junction
+SL-0375	GO:0033644	host cell membrane	host cell membrane
+SL-0376	GO:0039662	host cell outer membrane	host cell outer membrane|host cell envelope outer membrane|outer membrane of host cell
+SL-0377	GO:0044157	host cell projection	host cell projection
+SL-0378	GO:0020030	host cell surface	infected host cell surface knob
+SL-0424	GO:0044158	host cell wall	host cell wall
+SL-0383	GO:0044163	host cytoskeleton	host cytoskeleton
+SL-0384	GO:0044164	host cytosol	host cell cytosol|host cytosol
+SL-0388	GO:0044165	host endoplasmic reticulum	host cell endoplasmic reticulum|host endoplasmic reticulum
+SL-0389	GO:0044166	host endoplasmic reticulum lumen	host cell endoplasmic reticulum lumen|host endoplasmic reticulum lumen
+SL-0390	GO:0044167	host endoplasmic reticulum membrane	host cell endoplasmic reticulum membrane|host endoplasmic reticulum membrane
+SL-0391	GO:0044173	host endoplasmic reticulum-golgi intermediate compartment	host cell endoplasmic reticulum-golgi intermediate compartment membrane|host cell er-golgi intermediate compartment membrane|host endoplasmic reticulum-golgi intermediate compartment membrane|host er-golgi intermediate compartment membrane
+SL-0392	GO:0044173	host endoplasmic reticulum-golgi intermediate compartment membrane	host cell endoplasmic reticulum-golgi intermediate compartment membrane|host cell er-golgi intermediate compartment membrane|host endoplasmic reticulum-golgi intermediate compartment membrane|host er-golgi intermediate compartment membrane
+SL-0393	GO:0044174	host endosome	host cell endosome|host endosome
+SL-0394	GO:0044175	host endosome membrane	host cell endosome membrane|host endosome membrane
+SL-0425	GO:0043655	host extracellular space	host extracellular space|extracellular space of host|host extracellular space
+SL-0379	GO:0044176	host filopodium	host cell filopodium|host filopodium
+SL-0395	GO:0044177	host golgi apparatus	host cell golgi apparatus|host golgi apparatus
+SL-0453	GO:0072494	host multivesicular body	host multivesicular body|host cell multivesicular body
+SL-0422	GO:0044168	host rough endoplasmic reticulum	host cell rough endoplasmic reticulum|host rough endoplasmic reticulum
+SL-0423	GO:0044169	host rough endoplasmic reticulum membrane	host cell rough endoplasmic reticulum membrane|host rough endoplasmic reticulum membrane
+SL-0444	GO:0044170	host smooth endoplasmic reticulum	host cell smooth endoplasmic reticulum|host smooth endoplasmic reticulum
+SL-0445	GO:0044171	host smooth endoplasmic reticulum membrane	host cell smooth endoplasmic reticulum membrane|host smooth endoplasmic reticulum membrane
+SL-0449	GO:0044159	host thylakoid	host thylakoid
+SL-0143	GO:0032579	hyaline layer	apical lamina of hyaline layer
+SL-0145	GO:0034492	hydrogenosome	hydrogenosome lumen
+SL-0335	GO:0034492	hydrogenosome lumen	hydrogenosome lumen
+SL-0144	GO:0046859	hydrogenosome membrane	hydrogenosomal membrane|hydrogenosome membrane
+SL-0478	GO:0031674	i band	i band|i disc|isotropic disc|j disc
+SL-0488	GO:0061702	inflammasome	inflammasome complex
+SL-0362	GO:0070258	inner membrane complex	inner membrane pellicle complex|inner membrane complex
+SL-0146	GO:0033165	interphotoreceptor matrix	interphotoreceptor matrix
+SL-0148	GO:0071437	invadopodium	invadopodium
+SL-0290	GO:0071438	invadopodium membrane	invadopodium membrane
+SL-0149	GO:0000776	kinetochore	kinetochore
+SL-0150	GO:0020023	kinetoplast	kinetoplast
+SL-0460	GO:0060091	kinocilium	kinocilium
+SL-0291	GO:0030027	lamellipodium	lamellipodium
+SL-0292	GO:0031258	lamellipodium membrane	lamellipodium membrane
+SL-0152	GO:0005770	late endosome	late endosome|prevacuolar compartment|pvc
+SL-0336	GO:0031906	late endosome lumen	late endosome lumen
+SL-0151	GO:0031902	late endosome membrane	late endosome membrane
+SL-0154	GO:0005633	lipid droplet	ascus lipid droplet|ascus lipid particle
+SL-9914	GO:0035450	lumenal side	extrinsic component of lumenal side of plastid thylakoid membrane|extrinsic to lumenal leaflet of plastid thylakoid membrane|extrinsic to lumenal side of plastid thylakoid membrane|peripheral to lumenal side of plastid thylakoid membrane
+SL-0158	GO:0005764	lysosome	lysosome
+SL-0156	GO:0036021	lysosome lumen	endolysosome lumen|endolysosomal lumen
+SL-0157	GO:0005765	lysosome membrane	lysosomal membrane|lysosome membrane
+SL-0159	GO:0000323	lytic vacuole	lytic vacuole
+SL-0315	GO:0031430	m line	m band|m disc|m line|mesophragma|midline
+SL-0510	GO:0110143	magnetosome	magnetosome
+SL-0511	GO:0110145	magnetosome lumen	magnetosome lumen
+SL-0512	GO:0110146	magnetosome membrane	magnetosome membrane
+SL-9913	GO:0099616	matrix side	extrinsic component of matrix side of mitochondrial inner membrane
+SL-0161	GO:0033162	melanosome	melanosome membrane
+SL-0338	GO:0034493	melanosome lumen	melanosome lumen
+SL-0160	GO:0033162	melanosome membrane	melanosome membrane
+SL-0162	GO:0000139	membrane	golgi membrane
+SL-0370	GO:0044853	membrane raft	plasma membrane raft
+SL-0163	GO:0020009	microneme	microneme|sarconeme
+SL-0339	GO:0034494	microneme lumen	microneme lumen
+SL-0164	GO:0033163	microneme membrane	microneme membrane
+SL-0166	GO:0005792	microsome	obsolete microsome|microsomal membrane|microsome
+SL-0484	GO:0000923	microtubule organizing center	equatorial microtubule organizing center|emtoc|equatorial microtubule organising centre
+SL-0293	GO:0005902	microvillus	microvillus|microvilli
+SL-0294	GO:0031528	microvillus membrane	microvillus membrane
+SL-0469	GO:0030496	midbody	midbody
+SL-0490	GO:0090543	midbody ring	flemming body|midbody ring
+SL-0173	GO:0005739	mitochondrion	mitochondrion|mitochondria
+SL-0171	GO:0044233	mitochondrion membrane	mitochondria-associated endoplasmic reticulum membrane|endoplasmic reticulum-mitochondrion membrane contact site|er-mitochondrion membrane contact site|mam|mitochondria-associated er membrane|mitochondria-associated membrane|mitochondria-associated membrane|mitochondria-endoplasmic reticulum (er) contact
+SL-0437	GO:0032047	mitosome	mitosome|crypton
+SL-0174	GO:0005771	multivesicular body	multivesicular body|multivesicular endosome|mvb|mve
+SL-0340	GO:0097486	multivesicular body lumen	multivesicular body lumen
+SL-0175	GO:0032585	multivesicular body membrane	multivesicular body membrane|multivesicular endosome membrane|mvb membrane|mve membrane
+SL-0312	GO:0030016	myofibril	myofibril|striated muscle fiber|striated muscle fibre
+SL-0177	GO:0042151	nematocyst	nematocyst|cnidocyst
+SL-0518	GO:0032589	neuron projection	neuron projection membrane
+SL-0526	GO:0098674	neuronal dense core vesicle	extrinsic component of neuronal dense core vesicle membrane
+SL-0532	GO:0098674	neuronal dense core vesicle membrane	extrinsic component of neuronal dense core vesicle membrane
+SL-0494	GO:0016604	nuclear body	nuclear body
+SL-0185	GO:0005643	nuclear pore complex	nuclear pore|npc|nuclear pore complex|nuclear pore membrane protein|nucleopore
+SL-0187	GO:0009295	nucleoid	nucleoid
+SL-0188	GO:0005730	nucleolus	nucleolus
+SL-0189	GO:0033009	nucleomorph	nucleomorph
+SL-0190	GO:0000446	nucleoplasm	nucleoplasmic tho complex
+SL-9915	GO:1990875	nucleoplasmic side	nucleoplasmic side of nuclear pore|nucleoplasmic side of npc|nucleoplasmic side of nuclear pore complex|nucleoplasmic side of nucleopore
+SL-0191	GO:0001673	nucleus	male germ cell nucleus|male germ-cell nucleus
+SL-0351	GO:0070111	organellar chromatophore	organellar chromatophore|paulinella-type chromatophore
+SL-0359	GO:0070113	organellar chromatophore inner membrane	organellar chromatophore inner membrane|paulinella-type chromatophore inner membrane
+SL-0360	GO:0070115	organellar chromatophore intermembrane space	organellar chromatophore intermembrane space|paulinella-type chromatophore intermembrane space
+SL-0352	GO:0070112	organellar chromatophore membrane	organellar chromatophore membrane|paulinella-type chromatophore membrane
+SL-0361	GO:0070114	organellar chromatophore outer membrane	organellar chromatophore outer membrane|paulinella-type chromatophore outer membrane
+SL-0354	GO:0070116	organellar chromatophore thylakoid	organellar chromatophore thylakoid|paulinella-type chromatophore thylakoid
+SL-0355	GO:0070117	organellar chromatophore thylakoid lumen	organellar chromatophore thylakoid lumen|paulinella-type chromatophore thylakoid lumen
+SL-0356	GO:0070118	organellar chromatophore thylakoid membrane	organellar chromatophore thylakoid membrane|paulinella-type chromatophore thylakoid membrane
+SL-0192	GO:0033010	paranodal septate junction	paranodal junction|axoglial septate junction|paranodal axoglial junction|paranodal septate junction
+SL-0194	GO:0020003	parasitophorous vacuole	symbiont-containing vacuole|bacterium-containing vacuole|parasitophorous vacuole|pathogen-occupied vacuole|salmonella-containing vacuole|scv
+SL-0230	GO:0000932	p-body	p-body|cytoplasmic foci|cytoplasmic mrna processing body|p body
+SL-0195	GO:0043661	peribacteroid membrane	peribacteroid membrane
+SL-0197	GO:0043204	perikaryon	perikaryon|cell soma cytoplasm
+SL-0198	GO:0044220	perinuclear region	host cell perinuclear region of cytoplasm
+SL-0199	GO:0033011	perinuclear theca	perinuclear theca
+SL-9903	GO:0019898	peripheral membrane protein	extrinsic component of membrane|extrinsic to membrane|peripheral membrane protein
+SL-0200	GO:0030287	periplasm	cell wall-bounded periplasmic space|cell wall bounded periplasmic space|cell wall-enclosed periplasmic space|inner wall zone|iwz
+SL-0201	GO:0055040	periplasmic flagellum	periplasmic flagellum
+SL-9916	GO:0031236	periplasmic side	extrinsic component of periplasmic side of plasma membrane|extrinsic to external leaflet of plasma membrane, in periplasmic space|extrinsic to external side of plasma membrane, in periplasmic space
+SL-0367	GO:0043592	perispore	exosporium|epispore|exospore|perispore
+SL-0204	GO:0005777	peroxisomal	peroxisome|peroxisomal|peroxisome vesicle
+SL-0202	GO:0005782	peroxisomal matrix	peroxisomal matrix|peroxisomal lumen
+SL-0203	GO:0005778	peroxisomal membrane	peroxisomal membrane|peroxisome membrane
+SL-0473	GO:0001891	phagocytic cup	phagocytic cup
+SL-0206	GO:0000421	phagosome	autophagosome membrane|autophagic vacuole membrane
+SL-0342	GO:0034423	phagosome lumen	autophagosome lumen|autophagic vacuole lumen
+SL-0205	GO:0000421	phagosome membrane	autophagosome membrane|autophagic vacuole membrane
+SL-0457	GO:0001917	photoreceptor inner segment	photoreceptor inner segment
+SL-0514	GO:0060342	photoreceptor inner segment membrane	photoreceptor inner segment membrane
+SL-0458	GO:0001750	photoreceptor outer segment	photoreceptor outer segment
+SL-0513	GO:0042622	photoreceptor outer segment membrane	photoreceptor outer segment membrane
+SL-0207	GO:0009524	phragmoplast	phragmoplast
+SL-0208	GO:0009506	plasmodesma	plasmodesma|plasmodesmata
+SL-0209	GO:0000311	plastid	plastid large ribosomal subunit
+SL-0210	GO:0009526	plastid envelope	plastid envelope
+SL-0211	GO:0009528	plastid inner membrane	plastid inner membrane
+SL-0212	GO:0009529	plastid intermembrane space	plastid intermembrane space|plastid envelope lumen
+SL-0213	GO:0031350	plastid membrane	intrinsic component of plastid membrane|intrinsic to plastid membrane
+SL-0140	GO:0042646	plastid nucleoid	plastid nucleoid
+SL-0214	GO:0009527	plastid outer membrane	plastid outer membrane
+SL-0215	GO:0009532	plastid stroma	plastid stroma
+SL-0278	GO:0031976	plastid thylakoid	plastid thylakoid
+SL-0309	GO:0031978	plastid thylakoid lumen	plastid thylakoid lumen
+SL-0216	GO:0035449	plastid thylakoid membrane	extrinsic component of plastid thylakoid membrane|extrinsic to plastid thylakoid membrane|peripheral to plastid thylakoid membrane
+SL-0217	GO:0010287	plastoglobule	plastoglobule|pg|plastoglobuli
+SL-0465	GO:0016605	pml body	pml body|nd10|nuclear dot|pml nb|pml nuclear body
+SL-0295	GO:0002102	podosome	podosome
+SL-0371	GO:0070505	pollen coat	pollen coat|pollenkitt|tryphine
+SL-0218	GO:0033012	porosome	porosome
+SL-0515	GO:0098794	postsynapse	postsynapse
+SL-0297	GO:0014069	postsynaptic density	postsynaptic density|neuronal postsynaptic density|post synaptic density|post-synaptic density|postsynaptic density of dendrite
+SL-0520	GO:0098839	postsynaptic density membrane	postsynaptic density membrane
+SL-0523	GO:0098842	postsynaptic early endosome	postsynaptic early endosome
+SL-0534	GO:0098896	postsynaptic early endosome membrane	postsynaptic early endosome membrane
+SL-0528	GO:0098843	postsynaptic endocytic zone	postsynaptic endocytic zone
+SL-0522	GO:0098845	postsynaptic endosome	postsynaptic endosome
+SL-0521	GO:0150051	postsynaptic golgi apparatus	postsynaptic golgi apparatus|golgi outpost
+SL-0524	GO:0098837	postsynaptic recycling endosome	postsynaptic recycling endosome|postsynaptic endosomal recycling compartment|postsynaptic recycling outpost
+SL-0533	GO:0098944	postsynaptic recycling endosome membrane	postsynaptic recycling endosome membrane
+SL-0516	GO:0098793	presynapse	presynapse|presynaptic terminal
+SL-0519	GO:0048786	presynaptic active zone	presynaptic active zone|pre-synaptic active zone|pre-synaptic active zone component|presynaptic specialization
+SL-0527	GO:0048787	presynaptic active zone membrane	presynaptic active zone membrane|active zone plasma membrane|active zone pre-synaptic plasma membrane|active zone presynaptic plasma membrane|pre-synaptic active zone membrane
+SL-0529	GO:0098833	presynaptic endocytic zone	presynaptic endocytic zone
+SL-0525	GO:0098830	presynaptic endosome	presynaptic endosome
+SL-0223	GO:0005770	prevacuolar compartment	late endosome|prevacuolar compartment|pvc
+SL-0225	GO:0009530	primary cell wall	primary cell wall
+SL-0226	GO:0009541	prolamellar body	etioplast prolamellar body
+SL-0369	GO:0005628	prospore	prospore membrane|ascospore-type prospore membrane|forespore membrane|fsm
+SL-0368	GO:0005628	prospore membrane	prospore membrane|ascospore-type prospore membrane|forespore membrane|fsm
+SL-0228	GO:0000326	protein storage vacuole	protein storage vacuole
+SL-0344	GO:0034495	protein storage vacuole lumen	protein storage vacuole lumen
+SL-0227	GO:0032586	protein storage vacuole membrane	protein storage vacuole membrane
+SL-0229	GO:0005622	protoplasm	intracellular|internal to cell|nucleocytoplasm|protoplasm|protoplast
+SL-0298	GO:0031143	pseudopodium	pseudopodium|pseudopod
+SL-0299	GO:0031260	pseudopodium membrane	pseudopodium membrane
+SL-0232	GO:0034777	recycling endosome	recycling endosome lumen
+SL-0345	GO:0034777	recycling endosome lumen	recycling endosome lumen
+SL-0231	GO:0055038	recycling endosome membrane	recycling endosome membrane
+SL-0233	GO:0020008	rhoptry	rhoptry|paired organelles|toxoneme
+SL-0346	GO:0034591	rhoptry lumen	rhoptry lumen
+SL-0234	GO:0033016	rhoptry membrane	rhoptry membrane
+SL-0235	GO:0005791	rough endoplasmic reticulum	rough endoplasmic reticulum|rer|rough er
+SL-0236	GO:0048237	rough endoplasmic reticulum lumen	rough endoplasmic reticulum lumen|rer lumen|rough er lumen
+SL-0237	GO:0030867	rough endoplasmic reticulum membrane	rough endoplasmic reticulum membrane|rer membrane|rough er membrane
+SL-0300	GO:0001726	ruffle	ruffle|membrane ruffle
+SL-0301	GO:0032587	ruffle membrane	ruffle membrane|membrane ruffle
+SL-0238	GO:0042383	sarcolemma	sarcolemma
+SL-0313	GO:0030017	sarcomere	sarcomere
+SL-0311	GO:0014701	sarcoplasm	junctional sarcoplasmic reticulum membrane
+SL-0239	GO:0014701	sarcoplasmic reticulum	junctional sarcoplasmic reticulum membrane
+SL-0240	GO:0014803	sarcoplasmic reticulum lumen	longitudinal sarcoplasmic reticulum lumen
+SL-0241	GO:0014701	sarcoplasmic reticulum membrane	junctional sarcoplasmic reticulum membrane
+SL-0242	GO:0009531	secondary cell wall	secondary cell wall
+SL-0244	GO:0005803	secretory vesicle	obsolete secretory vesicle|secretory vesicle|transition vesicle
+SL-0245	GO:0005804	secretory vesicle membrane	obsolete secretory vesicle membrane|secretory vesicle membrane
+SL-0246	GO:0005918	septate junction	septate junction|septate desmosome
+SL-0262	GO:0030115	s-layer	s-layer
+SL-0247	GO:0030114	slime layer	slime layer
+SL-0248	GO:0005790	smooth endoplasmic reticulum	smooth endoplasmic reticulum|ser|smooth er
+SL-0249	GO:0048238	smooth endoplasmic reticulum lumen	smooth endoplasmic reticulum lumen|ser lumen|smooth er lumen
+SL-0250	GO:0030868	smooth endoplasmic reticulum membrane	smooth endoplasmic reticulum membrane|ser membrane|smooth er membrane
+SL-0251	GO:0000922	spindle	spindle pole
+SL-0448	GO:0000922	spindle pole	spindle pole
+SL-0252	GO:0000928	spindle pole body	gamma-tubulin small complex, spindle pole body|tub4 complex
+SL-0530	GO:0097444	spine apparatus	spine apparatus|dense material
+SL-0366	GO:0031160	spore coat	spore wall|spore coat
+SL-0253	GO:0070477	spore core	endospore core
+SL-0364	GO:0043595	spore cortex	endospore cortex
+SL-0254	GO:0005619	spore wall	ascospore wall|fungal-type spore wall
+SL-0302	GO:0032420	stereocilium	stereocilium
+SL-0303	GO:0060171	stereocilium membrane	stereocilium membrane
+SL-0501	GO:0001725	stress fiber	stress fiber|actin cable|stress fibre
+SL-0496	GO:0010494	stress granule	cytoplasmic stress granule|cytoplasmic mrnp granule|stress granule
+SL-9917	GO:0035451	stromal side	extrinsic component of stromal side of plastid thylakoid membrane|extrinsic to stromal leaflet of plastid thylakoid membrane|extrinsic to stromal side of plastid thylakoid membrane|peripheral to stromal side of plastid thylakoid membrane
+SL-0256	GO:0043658	symbiosome	host symbiosome
+SL-0257	GO:0055044	symplast	symplast
+SL-0258	GO:0001772	synapse	immunological synapse|c-smac|supramolecular activation cluster
+SL-0517	GO:0043083	synaptic cleft	synaptic cleft
+SL-0259	GO:0008021	synaptic vesicle	synaptic vesicle|docked vesicle
+SL-0348	GO:0034592	synaptic vesicle lumen	synaptic vesicle lumen
+SL-0260	GO:0030285	synaptic vesicle membrane	integral component of synaptic vesicle membrane|integral to synaptic vesicle membrane
+SL-0261	GO:0019717	synaptosome	obsolete synaptosome|synaptosome
+SL-0263	GO:0019033	tegument	viral tegument
+SL-0276	GO:0000781	telomere	chromosome, telomeric region|telomere
+SL-0450	GO:0009503	thylakoid	thylakoid light-harvesting complex
+SL-0265	GO:0005923	tight junction	bicellular tight junction|zonula occludens
+SL-0266	GO:0005802	trans-golgi network	trans-golgi network|golgi trans face|golgi trans-face|late golgi|maturing face|tgn|trans face|trans golgi network
+SL-0267	GO:0032588	trans-golgi network membrane	trans-golgi network membrane|golgi trans face membrane|trans golgi network membrane
+SL-0268	GO:0055039	trichocyst	trichocyst
+SL-0505	GO:0030315	t-tubule	t-tubule|transverse tubule|triad
+SL-0141	GO:0001931	uropodium	uropod|distal pole complex|retractile pole|uropodium
+SL-0272	GO:0000322	vacuole	storage vacuole
+SL-0270	GO:0000328	vacuole lumen	fungal-type vacuole lumen|lumen of vacuole with cell cycle-correlated morphology
+SL-0271	GO:0000329	vacuole membrane	fungal-type vacuole membrane|fungal-type vacuolar membrane|membrane of vacuole with cell cycle-correlated morphology
+SL-0498	GO:0001669	vesicle	acrosomal vesicle|acrosomal granule|acrosome
+SL-0274	GO:0019012	virion	virion|complete virus particle
+SL-0275	GO:0055036	virion membrane	virion membrane
+SL-0314	GO:0030018	z line	z disc|z band|z disk|z line

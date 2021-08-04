@@ -1,0 +1,35 @@
+Also	Also	RB	B-ADVP	O
+,	,	,	O	O
+this	this	DT	B-NP	O
+information	information	NN	I-NP	O
+has	have	VBZ	B-VP	O
+been	be	VBN	I-VP	O
+used	use	VBN	I-VP	O
+to	to	TO	B-PP	O
+asses	ass	NNS	B-NP	O
+CIMP	CIMP	NN	I-NP	O
+phenotype	phenotype	NN	I-NP	O
+by	by	IN	B-PP	O
+interrogating	interrogate	VBG	B-VP	O
+MLH1	MLH1	NN	B-NP	B-protein
+,	,	,	I-NP	O
+RUNX3	RUNX3	NN	I-NP	B-protein
+,	,	,	I-NP	O
+CACNA1G	CACNA1G	NN	I-NP	B-protein
+,	,	,	I-NP	O
+IGF2	IGF2	NN	I-NP	B-protein
+,	,	,	I-NP	O
+NEUROG1	NEUROG1	NN	I-NP	B-protein
+,	,	,	I-NP	O
+SOCS1	SOCS1	NN	I-NP	B-protein
+,	,	,	I-NP	O
+CRABP1	CRABP1	NN	I-NP	B-protein
+and	and	CC	I-NP	O
+CDKN2A	CDKN2A	NN	I-NP	B-DNA
+promoters	promoter	NNS	I-NP	I-DNA
+,	,	,	O	O
+as	as	RB	O	O
+previously	previously	RB	B-ADVP	O
+reported	report	VBN	B-VP	O
+
+
