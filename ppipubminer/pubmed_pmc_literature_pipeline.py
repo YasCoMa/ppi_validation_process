@@ -88,7 +88,7 @@ class Literature_hits:
         
         id=",".join(hits)
         fetch = Entrez.efetch(db='pmc',resetmode='xml',id=id,rettype='full')
-        with open(folder+'tempFile.xml', 'w') as f:
+        with open(folder+'tempFile.xml', 'wb') as f:
             f.write(fetch.read())
         tree = ET.parse(folder+'tempFile.xml')
         root = tree.getroot()
@@ -238,7 +238,7 @@ class Literature_hits:
         
         id=",".join(hits)
         fetch = Entrez.efetch(db='pubmed',resetmode='xml',id=id,rettype='full')
-        with open(folder+'tempFile.xml', 'w') as f:
+        with open(folder+'tempFile.xml', 'wb') as f:
             f.write(fetch.read())
         tree = ET.parse(folder+'tempFile.xml')
         root = tree.getroot()
