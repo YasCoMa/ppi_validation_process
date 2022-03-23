@@ -125,6 +125,8 @@ The figure below illustrates all the tasks of these pipelines.
 		````python3 pubmed_pmc_literature_pipeline.py -em 2 -rtm1 2 -fo running_example/mode_2/ -fa articles_info.tsv ````
 
 ## Reference
+Martins YC, Ziviani A, Nicolás MF, de Vasconcelos AT. Large-Scale Protein Interactions Prediction by Multiple Evidence Analysis Associated With an In-Silico Curation Strategy. Frontiers in Bioinformatics. 2021:38.
+https://www.frontiersin.org/articles/10.3389/fbinf.2021.731345/full
 
 ## Bug Report
 Please, use the [Issue](https://github.com/YasCoMa/PPICurationProcess/issues) tab to report any bug.

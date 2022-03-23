@@ -396,12 +396,12 @@ class Text_processing:
         return cleantext
 
     def load_forbidden_expressions(self):
-        exps=['mutate gene', 'mutation analysis','tumor mutation','larrge-analysis','larrge-scale','exome','rna-seq','microarray','gene expression','gene expression pattern','mutational spectra', 'gene set enrichment analysis','next-generation sequencing','gene expression profile']
+        exps=['mutate gene', 'mutation analysis','tumor mutation','larrge-analysis','large-scale','exome','rna-seq','microarray','gene expression','gene expression pattern','mutational spectra', 'gene set enrichment analysis','next-generation sequencing','gene expression profile']
 
         return exps
 
     def load_interacting_verbs(self):
-        verbs=['binding','subunit','unphosphorylate','phosphorylation','colocalization', 'phosphorylate', 'bind', 'coimmunopurify','co-purify','coimmunopurified', 'cofractionate', 'cofractionates','downregulate', 'upregulate','colocalize', 'connection','complex','intermediate','interaction','activate', 'associate','cleave','crosslink','immunoprecipitate','interact','recruit','block','impair','induce','mediate','regulate']
+        verbs=['binding','subunit','unphosphorylate','phosphorylation','colocalization', 'phosphorylate', 'bind', 'coimmunopurify','co-purify','coimmunopurified', 'cofractionate', 'cofractionates','downregulate', 'upregulate','colocalize', 'connection','complex','intermediate','interaction','activate', 'associate','cleave','crosslink','immunoprecipitate','interact','recruit','block','impair','induce','mediate','regulate','receptor','ligand']
         # removed: decrease, bind, signaling
         return verbs
 
@@ -457,7 +457,8 @@ class Text_processing:
         executable_path = os.path.join(".", "geniatagger-3.0.2", "geniatagger")
         tagger = GENIATagger(executable_path)
 
-        lt = Literature_hits(folder+file_pairs)
+        #lt = Literature_hits(folder+file_pairs)
+        lt="bait"
 
         methods=self.load_experimental_methods()
         verbs=self.load_interacting_verbs()
@@ -472,7 +473,7 @@ class Text_processing:
             for f in os.listdir(folder+"processed_sentences"):
                 if(f.startswith("scs_")):
                     pr=f.replace("scs_","").replace(".tsv","").split("-")
-                    pr=[ pr[0], pr[1] ]
+                    pr=[ pr[0].lower(), pr[1].lower()  ]
                     pairs.append(pr)
         else:
             os.system("mkdir "+folder+"processed_sentences")
@@ -482,13 +483,12 @@ class Text_processing:
             for line in f:
                 l=line.replace("\n","").split("\t")
                 if(int(l[2])>0 or int(l[4])>0):
-                    p1=l[0].split("|")[1]
-                    p2=l[1].split("|")[1]
+                    p1=l[0].split("|")[1].lower()
+                    p2=l[1].split("|")[1].lower()
                     
                     pair=[p1, p2]
                     if( not pair in pairs ):
-                        p1=p1.lower()
-                        p2=p2.lower()
+                        print("Evaluating ", p1, " and ", p2)
 
                         identifier_result=p1+"-"+p2
 
@@ -510,7 +510,7 @@ class Text_processing:
                         for a in pmids:
                             self.process_paper(folder, a, type_, identifier_result, tokenizer, tagger, lt, methods, verbs, stop_expressions, parser, pair)
 
-                        if(os.path.getsize(folder+"processed_sentences/scs_"+identifier_result+".tsv")==130):
+                        if(os.path.getsize(folder+"processed_sentences/scs_"+identifier_result+".tsv")==198):
                             os.system("rm "+folder+"processed_sentences/scs_"+identifier_result+".tsv")
                             
             f.close()
@@ -518,7 +518,7 @@ class Text_processing:
             print("Error: You have to run step 2 first because the pmc/pubmed papers found in step 1 are not processed and stored")
 
     def process_paper(self, folder, a, type_, identifier_result, tokenizer, tagger, lt, methods, verbs, stop_expressions, parser, pair):
-        if( os.path.isfile(folder+type_+'_articles/'+a+'.xml') ):
+        if( os.path.isfile(folder+type_+'_articles/'+a+'.xml') and a!="6778823" ):
             #print(p1, p2, 'pmc_articles/'+a+'.xml')
             try:
                 # fixing xml file containing possible undesirable characters for xml
@@ -569,6 +569,7 @@ class Text_processing:
                 sentence_groups["body"]=sentences
 
                 for idst in sentence_groups.keys():
+                    print("---Processing ", len(sentence_groups[idst]), "sentences in ", idst)
                     for s in sentence_groups[idst]:
                         #print(s)
                         count_forbidden_expressions=0
@@ -578,13 +579,45 @@ class Text_processing:
                         if(count_forbidden_expressions==0):
                             found_methods=[]
                             found_interact_verbs=[]
-                            c1=0
-                            c2=0
+                            p1=pair[0]
+                            p2=pair[1]
+                            
+                            c={}
+                            c[pair[0]]=0
+                            c[pair[1]]=0
                             
                             w=[]
                             pos=[]
                             entities=[]
-                            for word, base_form, pos_tag, chunk, named_entity in tagger.tag(s):
+                            
+                            tokens=s.split(" ")
+                            for word in tokens:
+                                
+                                word=word.lower()
+                                condition=(word.find(p1)!=-1)
+                                if(condition):
+                                    c[p1]+=1
+                                    if(not word in entities):
+                                        entities.append(word)
+                                    
+                                condition=(word.find(p2)!=-1)
+                                if(condition):
+                                    c[p2]+=1
+                                    if(not word in entities):
+                                        entities.append(word)
+                                
+                                base_form=stemmer.stem(word)
+                                if(base_form in verbs):
+                                    found_interact_verbs.append(base_form)
+                                
+                                for met in methods:
+                                    if(base_form in met):
+                                        found_methods.append(base_form)
+                                        break
+                                    
+                                w.append(word)
+                                    
+                            """for word, base_form, pos_tag, chunk, named_entity in tagger.tag(s):
                                 if(named_entity.find("protein")!=-1):
                                     entities.append(word)
 
@@ -594,15 +627,15 @@ class Text_processing:
 
                                     word=word.lower()
                                     condition=(word.find(p1)!=-1)
-                                    if(p1 in lt.symbols.keys()):
-                                        condition=(word.find(p1)!=-1 or word in lt.symbols[p1])
+                                    #if(p1 in lt.symbols.keys()):
+                                    #    condition=(word.find(p1)!=-1 or word in lt.symbols[p1])
 
                                     if(named_entity.find("protein")!=-1 and condition ):
                                         c1+=1
                                     
                                     condition=(word.find(p2)!=-1)
-                                    if(p2 in lt.symbols.keys()):
-                                        condition=(word.find(p2)!=-1 or word in lt.symbols[p2])
+                                    #if(p2 in lt.symbols.keys()):
+                                    #    condition=(word.find(p2)!=-1 or word in lt.symbols[p2])
                                         
                                     if(named_entity.find("protein")!=-1 and condition ):
                                         c2+=1
@@ -617,17 +650,22 @@ class Text_processing:
                                             break
                                 
                                 w.append(base_form)
-                                #pos.append(pos_tag)
+                                #pos.append(pos_tag)"""
                             
-                            if(lt!=None):
-                                main_condition = (c1>0 and c2>0)
+                            if(lt=="bait"):
+                                main_condition = (c[p1]>0 and c[p2]>0)
                             else:
                                 main_condition = (len(entities)>=2)
-
-                            if( main_condition and len(entities)<15 and len(found_interact_verbs)>0):
-                                with open(folder+"processed_sentences/scs_"+identifier_result+".tsv","a") as fg:
-                                    #fg.write("%s\t%s\t%s\t%s\n" %(a, str(w), str(pos), str(entities) ) )
-                                    fg.write("%s\t%s\t%s\t%s\t%i\t%s\t%i\t%s\t%i\n" %(a, idst, "|".join(w), "|".join(found_interact_verbs), len(found_interact_verbs), "|".join(found_methods), len(found_methods), "|".join(entities), len(entities) ) )
+                                
+                            if( main_condition  and len(found_interact_verbs)>0 ):
+                                for word, base_form, pos_tag, chunk, named_entity in tagger.tag(s):
+                                    if(named_entity.find("protein")!=-1 and (not word.lower() in entities)):
+                                        entities.append(word.lower())
+                                        
+                                if(len(entities)<18 and (p1 in entities) and (p2 in entities)):
+                                    with open(folder+"processed_sentences/scs_"+identifier_result+".tsv","a") as fg:
+                                        #fg.write("%s\t%s\t%s\t%s\n" %(a, str(w), str(pos), str(entities) ) )
+                                        fg.write("%s\t%s\t%s\t%s\t%i\t%s\t%i\t%s\t%i\n" %(a, idst, " ".join(w), "|".join(found_interact_verbs), len(found_interact_verbs), "|".join(found_methods), len(found_methods), "|".join(entities), len(entities) ) )
             except:
                 print("not ok")
 
