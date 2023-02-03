@@ -19,26 +19,19 @@ The figure below illustrates all the tasks of these pipelines.
 
 ## Requirements:
 * Python packages needed:
-	- pandas
-	- urllib
-	- os
-	- rdflib
-	- mlxtend
-	- re
-	- string
-	- unicodedata
-	- inflect
-	- nltk
-	- Bio python
-	- xml
-	- itertools
-	- lxml
-	- bs4 (beautiful soup)
+	- pip3 install pandas
+	- pip3 install rdflib
+	- pip3 install mlxtend
+	- pip3 install inflect
+	- pip3 install nltk
+	- pip3 install biopython
+	- pip3 install lxml
+	- pip3 install bs4 (beautiful soup)
 
 ## Usage Instructions
 ### Preparation:
-1. ````git clone https://github.com/YasCoMa/PPICurationProcess.git````
-2. ````cd PPICurationProcess````
+1. ````git clone https://github.com/YasCoMa/ppi_validation_process.git````
+2. ````cd ppi_validation_process````
 
 ### Filtering by association rules of cellular locations (first filtering part) - File ````pipe_location_assocRules/find_pattern.py```` :
 * Pipeline parameters:
@@ -129,4 +122,4 @@ Martins YC, Ziviani A, Nicolás MF, de Vasconcelos AT. Large-Scale Protein Inter
 https://www.frontiersin.org/articles/10.3389/fbinf.2021.731345/full
 
 ## Bug Report
-Please, use the [Issue](https://github.com/YasCoMa/PPICurationProcess/issues) tab to report any bug.
+Please, use the [Issues](https://github.com/YasCoMa/ppi_validation_process/issues) tab to report any bug.
