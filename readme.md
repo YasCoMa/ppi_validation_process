@@ -31,9 +31,9 @@ The figure below illustrates all the tasks of these pipelines.
 ## Usage Instructions
 ### Preparation:
 1. ````git clone https://github.com/YasCoMa/ppi_validation_process.git````
-2. ````cd ppi_validation_process````
-3. ````cd ppi_validation_process/pipe_location_assocRules/````
-4. ````unzip pygosemsim.zip````
+2. ````cd ppi_validation_process/pipe_location_assocRules/````
+3. ````unzip pygosemsim.zip````
+4. ````cd ../````
 
 ### Filtering by association rules of cellular locations (first filtering part) - File ````pipe_location_assocRules/find_pattern.py```` :
 * Pipeline parameters:
