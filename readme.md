@@ -1,4 +1,4 @@
-# PPI Validation Process
+# PPIVPro - PPI Validation Process
 
 Python pipelines to filter positive predicted protein interactions according to two criteria: (i) association rules of cellular components according to gold standard PPI data from [HINT](http://hint.yulab.org/) and (ii) text mining on scientific papers published on [Pubmed](http://pubmed.ncbi.nlm.nih.gov/) extracting sentences where the proteins in the PPIs appeared in an interaction context
 
@@ -31,9 +31,10 @@ The figure below illustrates all the tasks of these pipelines.
 ## Usage Instructions
 ### Preparation:
 1. ````git clone https://github.com/YasCoMa/ppi_validation_process.git````
-2. ````cd ppi_validation_process/pipe_location_assocRules/````
-3. ````unzip pygosemsim.zip````
-4. ````cd ../````
+2. `pip3 install -r requirements.txt`
+3. ````cd ppi_validation_process/pipe_location_assocRules/````
+4. ````unzip pygosemsim.zip````
+5. ````cd ../````
 
 ### Filtering by association rules of cellular locations (first filtering part) - File ````pipe_location_assocRules/find_pattern.py```` :
 * Pipeline parameters:

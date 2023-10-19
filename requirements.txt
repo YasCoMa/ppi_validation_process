@@ -1,0 +1,8 @@
+pandas
+rdflib
+mlxtend
+inflect
+nltk
+biopython
+lxml
+bs4
